@@ -6,6 +6,10 @@ to handle with all the res in android.
    https://www.vectorizer.io
    
    ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/vetorization.png)
+   
+2. then use SVG-XML converter.
+
+   https://products.aspose.app/pdf/conversion/svg-to-xml
 
 2. drag them to res/drawable.
 
