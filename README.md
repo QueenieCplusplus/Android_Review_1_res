@@ -1,6 +1,8 @@
 # Android_Review_1_res
 to handle with all the res in android.
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/output%202.png)
+
 1. to Vetorize all the png or jpeg formated image/graphics, in this way the graphics matches all screen sizes.
 
    https://www.vectorizer.io
