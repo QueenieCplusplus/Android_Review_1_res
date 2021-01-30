@@ -26,6 +26,12 @@ to handle with all the res in android.
    ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/svg1.png)
    
    ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/svg2.png)
+   
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/svg3.png)
+   
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/svg4.png)
+   
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/svg5.png)
 
 2. drag them to res/drawable.
 
