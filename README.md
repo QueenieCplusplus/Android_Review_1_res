@@ -11,6 +11,16 @@ to handle with all the res in android.
    
 2. then use SVG-XML converter.
 
+   To start Vector Asset Studio:
+
+     1.In Android Studio, open an Android app project.
+     
+     2.In the Project window, select the Android view.
+     
+     3.Right-click the res folder and select New > Vector Asset.
+
+     4. Vector Asset Studio appears.
+
    https://www.twblogs.net/a/5b8ece372b7177188347e26a 
    
    https://developer.android.com/reference/android/graphics/drawable/BitmapDrawable (Bitmap)
