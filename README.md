@@ -11,7 +11,7 @@ to handle with all the res in android.
    
 2. then use SVG-XML converter.
 
-   https://products.aspose.app/pdf/conversion/svg-to-xml
+   https://www.twblogs.net/a/5b8ece372b7177188347e26a 
    
    https://developer.android.com/reference/android/graphics/drawable/BitmapDrawable (Bitmap)
 
