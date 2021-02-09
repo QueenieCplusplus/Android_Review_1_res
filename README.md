@@ -23,6 +23,10 @@ to handle with all the res in android.
 
    https://www.twblogs.net/a/5b8ece372b7177188347e26a 
    
+   5. or use 3-party svg-vector converter to generate the android tag xml file.
+   
+   https://romannurik.github.io/AndroidAssetStudio/
+   
    ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/svg1.png)
    
    ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_res/main/svg2.png)
